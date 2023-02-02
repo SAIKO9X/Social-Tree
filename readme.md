@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Social Tree é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://saiko9x.github.io/devlink/)
+- [Acesse o projeto finalizado, online](https://saiko9x.github.io/Social-Tree)
 
 ## 🔖 Layout
 
